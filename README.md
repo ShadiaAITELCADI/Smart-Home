@@ -1,6 +1,7 @@
 # Smart Home Project
 
 <p align="center">
+  https://github.com/user-attachments/assets/6e19cd8e-9ef4-471d-b0ed-5bde452105fd
   <img src="https://github.com/mariamAboujenane/SmartHome/assets/106840796/6b4432f8-2cbd-4871-be25-1b80338a5b00" alt="Smart Home Project"/>
 </p>
 
